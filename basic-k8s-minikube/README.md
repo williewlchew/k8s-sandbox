@@ -1,3 +1,3 @@
 
-followed https://kubernetes.io/docs/tutorials/
+followed https://kubernetes.io/docs/tutorials/hello-minikube/
 
